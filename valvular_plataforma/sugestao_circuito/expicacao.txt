@@ -1,3 +1,0 @@
-1- O Uso tanto do motor CC quanto da bateria de 9V é para simular a válvula solenoide e a fonte externa de 12V que alimenta ela;
-
-2- O uso do diodo e do transistor é utilizado no circuito para simular o módulo relé, sendo o item que será usaddo no projeto final
